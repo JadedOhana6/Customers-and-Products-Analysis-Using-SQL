@@ -14,5 +14,6 @@ Customer, employee, orders and purchase information. Product: cars
 5. How much can we spend on acquiring customers?
   - Analysis method: Customer Lifetime Value (LTV), which represents the average amount of money a customer generates
 
-# Visualization: 
-in PowerBI
+# Tools Used:
+1. Postgresql for analysis
+2. PowerBI for visualization
