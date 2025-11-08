@@ -1,9 +1,9 @@
 # Customers & Products Analysis Using SQL & PowerBI
 
-# Data Overview: 
+## Data Overview: 
 Customer, employee, orders and purchase information. Product: cars
 
-# Aim of analysis:
+## Aim of analysis:
 1. What is the sales team performance?
 2. Which products should we order more of or less of?
 - Analysis method: Priority products for restocking by:
@@ -14,6 +14,6 @@ Customer, employee, orders and purchase information. Product: cars
 5. How much can we spend on acquiring customers?
   - Analysis method: Customer Lifetime Value (LTV), which represents the average amount of money a customer generates
 
-# Tools Used:
+## Tools Used:
 1. Postgresql for analysis
 2. PowerBI for visualization
