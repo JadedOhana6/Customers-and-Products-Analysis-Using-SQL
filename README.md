@@ -23,7 +23,7 @@ This analysis aims to provide insights regarding the sales performance of a reta
 - retailsales
 - EHE category (scraped from Kaggle using [Instant Data Scraper](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah))
 - FUR category (scraped from Kaggle page using [Instant Data Scraper](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah))
-- 6 other category tables are not available, but they all share the same pattern as the existing 2. 
+- 7 other category tables are not available, but they all share the same pattern as the existing 2. 
 
 ## Data Cleaning and Preparation
 The following tasks were performed:
