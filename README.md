@@ -1,4 +1,4 @@
-# Retail Sales Analysis using Postgres SQL. Viz on PowerBI
+# Retail Sales Analysis using Postgres SQL.
 
 ## Table of Contents
 -	[Project Overview](#project-overview)
